@@ -8,19 +8,19 @@
 */
 
 body {
-  background-color: #FFFFFF !important;
+  background-color: #0F0E0B !important;
   padding: 0;
 }
 
 .nav-link{
-  color: #6237C8 !important;
+  color: #DAA32A !important;
 }
 .nav-link.active{
-  background-color: #6237C8 !important;
-  color: #FB8B61 !important;
+  background-color: #DAA32A !important;
+  color: #0F0E0B !important;
 }
 header{
-  background-color: #FFFFFF !important;
+  background-color: #0F0E0B !important;
   z-index: 999;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   width: 100%;
@@ -39,7 +39,7 @@ a {
 
 h1 {
   font-size: 72px;
-  background: -webkit-linear-gradient(1456deg, rgba(89,28,230,1) 0%, rgba(251,139,97,1) 80%);
+  background: -webkit-linear-gradient(1456deg, #EFD777 0%, #DAA32A 80%);
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -54,10 +54,11 @@ h1 {
 .cardhover:hover{
   transition:0.7s;
   color: #FFFFFF;
-  background-color: #6237C8;
+  background-color: #0F0E0B;
   text-decoration: none;
   font-size: 20px;
   transform: scale(1.1);
+  border-color: #84898C;
 }
 
 /* linha do tempo */

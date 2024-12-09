@@ -69,7 +69,7 @@ width: 100%;
 
 h1 {
   font-size: 72px;
-  background: -webkit-linear-gradient(1456deg, rgba(89,28,230,1) 0%, rgba(251,139,97,1) 80%);
+  background: -webkit-linear-gradient(1456deg, #464D4D 0%, #84898C 80%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   font-family: Jazz LET, fantasy;
@@ -80,7 +80,7 @@ h1 {
 }
 
 .gradient{
-  background: rgb(89,28,230);
+  background: #0F0E0B;
   background: linear-gradient(304deg, rgba(89,28,230,1) 5%, rgba(249,89,141,1) 45%, rgba(251,139,97,1) 100%);
 }
 
