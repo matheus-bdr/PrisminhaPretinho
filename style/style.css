@@ -8,7 +8,7 @@
 */
 
 body {
-  background-color: #0F0E0B !important;
+  background-color: white !important;
   padding: 0;
 }
 
@@ -20,7 +20,7 @@ body {
   color: #0F0E0B !important;
 }
 header{
-  background-color: #0F0E0B !important;
+  background-color: white !important;
   z-index: 999;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   width: 100%;
@@ -39,7 +39,7 @@ a {
 
 h1 {
   font-size: 72px;
-  background: -webkit-linear-gradient(1456deg, #EFD777 0%, #DAA32A 80%);
+  background: -webkit-linear-gradient(1456deg, #DAA32A 0%, #0F0E0B 80%);
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -60,7 +60,11 @@ h1 {
   transform: scale(1.1);
   border-color: #84898C;
 }
-
+.card{
+  background-color: #0F0E0B;
+  color:#FFFFFF;
+  
+}
 /* linha do tempo */
 .apresentacaoLinhaDoTempo {
   position: relative;
